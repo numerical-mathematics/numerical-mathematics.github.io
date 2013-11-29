@@ -1,8 +1,7 @@
-# YourPageTitle
+# Numerical Mathematics Group notebook
 
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+[Time integration](time-integration.md)
+[Waves in heterogeneous media](waves.md)
 
 [SubMenuName]()
 
@@ -16,5 +15,5 @@
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
 
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
+<!-- render math -->
+[gimmick: math]()
