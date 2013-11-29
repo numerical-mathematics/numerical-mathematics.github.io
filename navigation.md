@@ -1,36 +1,20 @@
-# MDwiki
+# YourPageTitle
 
-[About](index.md)
+[Page1](page1.md)
+[Page2](page2.md)
+[Page3](page3.md)
 
-[Docs]()
+[SubMenuName]()
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
-  - - - -
-  * # Advanced
-  * [Customizing](customizing.md)
+  * [SubPage1](subpage/page1.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
 
-[Gimmicks](gimmicks.md)
+<!-- set a default theme -->
+[gimmick:theme (inverse: false)](bootstrap)
 
-[Tutorials]()
-
-  * [About the Tutorials](tutorials.md)
-  - - - -
-  * [Hosting with GitHub](tutorials/github.md)
-  * [Use with Dropbox](tutorials/dropbox.md)
-  * [Set up MDwiki on IIS](tutorials/iis/iis.md)
-
-[Examples](examples.md)
-[Download](download.md)
-[Forum](forum.md)
-
-
-[gimmick:theme (inverse: false)](flatly)
-
+<!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
 
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
-
-<!-- counter pixel for counting visitors -->
-<!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
+<!-- show a fork me on github ribbon -->
+[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
